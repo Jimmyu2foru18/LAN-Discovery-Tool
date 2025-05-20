@@ -2,7 +2,6 @@
 
 A network utility that allows devices on a Local Area Network (LAN) to discover each other using UDP broadcast messages.
 
-# LAN Discovery Tool
 ## Features
 
 - Broadcasts presence messages on the local network using UDP
