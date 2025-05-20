@@ -1,0 +1,4 @@
+# LAN Discovery Tool Requirements
+# No external dependencies required beyond Python standard library
+# Python 3.6+ is required
+# tkinter is required (included in standard Python installations)
