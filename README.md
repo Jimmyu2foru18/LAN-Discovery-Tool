@@ -1,6 +1,6 @@
 # LAN Discovery Tool
 
-A simple network utility that allows devices on a Local Area Network (LAN) to discover each other using UDP broadcast messages.
+A network utility that allows devices on a Local Area Network (LAN) to discover each other using UDP broadcast messages.
 
 # LAN Discovery Tool
 ## Features
