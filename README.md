@@ -22,7 +22,7 @@ A network utility that allows devices on a Local Area Network (LAN) to discover 
 ├── broadcaster.py 
 ├── listener.py    
 └── ui/             
-	└── app.py    
+     └── app.py    
 ```
 
 ## Requirements
